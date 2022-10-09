@@ -35,5 +35,9 @@ pip3 install -r requirements.txt
 
 Or if you're using conda: `conda install -c h2oai h2o`
 
-To start the notebook, simply type: `jupyter notebook` and it will open file browser in your browser and you can double click the `automl-fall-school-2022-h2o-automl.ipynb` file.
+## Tutorials
+
+To start the basic classification notebook, simply type: `jupyter notebook` and it will open file browser in your browser and you can double click the `automl-fall-school-2022-h2o-automl.ipynb` file.
+
+The second tutorial is about model explainability and you can download the notebook [here](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/explain-code-examples/Explain-wine-example.ipynb).
 
